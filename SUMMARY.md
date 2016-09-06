@@ -2,6 +2,7 @@
 
 * [Introduction](README.md)
 * [Contents](SUMMARY.md)
+* [Getting Started](getting-started.md)
 * Week 1
   * Objectives
   * Homework

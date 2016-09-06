@@ -7,5 +7,3 @@
 - [Pure.css](http://purecss.io/)
 
 # Books
-
-- [Effective JavaScript](http://effectivejs.com/)
