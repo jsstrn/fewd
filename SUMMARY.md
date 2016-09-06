@@ -1,7 +1,7 @@
-# Summary
+# Contents
 
 * [Introduction](README.md)
-* [Content](SUMMARY.md)
+* [Contents](SUMMARY.md)
 * Week 1
   * Objectives
   * Homework
