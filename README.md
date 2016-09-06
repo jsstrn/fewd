@@ -1,9 +1,3 @@
 # Front-end Web Development
 
-This book complements the lessons covered in
-
-What we'll be covering in this book
-
-- HTML
-- CSS
-- JavaScript
+This book complements the lessons covered in the front-end web development course at General Assembly and can be read online [here](https://jsstrn.gitbooks.io/fewd/).

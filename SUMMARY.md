@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+* [Content](SUMMARY.md)
 * Week 1
   * Objectives
   * Homework
@@ -14,11 +15,23 @@
   * Objectives
   * Homework
 * Week 5
+  * Objectives
+  * Homework
 * Week 6
+  * Objectives
+  * Homework
 * Week 7
+  * Objectives
+  * Homework
 * Week 8
+  * Objectives
+  * Homework
 * Week 9
+  * Objectives
+  * Homework
 * Week 10
+  * Objectives
+  * Homework
 * [Resources](resources.md)
 * Drafts
   * [First Chapter](chapter1.md)
