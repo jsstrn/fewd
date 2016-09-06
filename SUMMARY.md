@@ -38,5 +38,5 @@
    * [First Chapter](chapter1.md)
    * [Assignment 1](assignment_01.md)
    * [Week 1](week_01.md)
-* My Title
+* [My Title](my-title.md)
 
