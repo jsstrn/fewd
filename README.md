@@ -10,8 +10,6 @@ Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor 
 
 ## About the instructional team
 
-### Jesstern Rays (instructor)
+**Jesstern Rays (instructor)** is a software developer at ThoughtWorks and a part-time instructor at General Assembly. He took the Web Development Immersive course at General Assembly and later served as a teaching assistant. He is also a co-organizer of SingpaoreJS and hosts talk.js, a monthly meet up for JavaScript enthusiasts.
 
-Jesstern is a software developer at ThoughtWorks and a part-time instructor at General Assembly. He took the Web Development Immersive course at General Assembly and later served as a teaching assistant. He is also a co-organizer of SingpaoreJS and hosts talk.js, a monthly meet up for JavaScript enthusiasts.
-
-### Yishu See (teaching assistant)
+**Yishu See (teaching assistant)**
