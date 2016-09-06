@@ -1,40 +1,42 @@
-# Contents
+# Summary
 
 * [Introduction](README.md)
 * [Contents](SUMMARY.md)
 * [Getting Started](getting-started.md)
 * Week 1
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 2
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 3
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 4
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 5
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 6
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 7
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 8
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 9
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * Week 10
-  * Objectives
-  * Homework
+   * Objectives
+   * Homework
 * [Resources](resources.md)
 * Drafts
-  * [First Chapter](chapter1.md)
-  * [Assignment 1](assignment_01.md)
-  * [Week 1](week_01.md)
+   * [First Chapter](chapter1.md)
+   * [Assignment 1](assignment_01.md)
+   * [Week 1](week_01.md)
+* My Title
+
