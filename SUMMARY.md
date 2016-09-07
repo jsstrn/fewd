@@ -4,39 +4,49 @@
 * [Contents](SUMMARY.md)
 * [Getting Started](getting-started.md)
 * Week 1
-   * Objectives
-   * Homework
+   * [Objectives]()
+   * [Intro to HTML](intro-html.md)
+   * [Intro to CSS](intro-css.md)
+   * Exercises
+   * Assignment
 * Week 2
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 3
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 4
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 5
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 6
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 7
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 8
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 9
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * Week 10
    * Objectives
-   * Homework
+   * Exercises
+   * Assignment
 * [Resources](resources.md)
 * Drafts
    * [First Chapter](chapter1.md)
-   * [Assignment 1](assignment_01.md)
-   * [Week 1](week_01.md)
-* [My Title](my-title.md)
-
+   * [Assignment 1](week-one-assignment.md)
+   * [Week 1](week-one.md)
