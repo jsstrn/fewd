@@ -24,7 +24,8 @@ A list of resources for frontend web development.
 
 ## Others
 
-- https://github.com/syaning/awesome-frontend
-- https://github.com/dypsilon/frontend-dev-bookmarks
-- [Curated list of awesome links](https://github.com/sindresorhus/awesome)
+- [HTML Dog](http://www.htmldog.com/)
 - [Programming, Zbgureshpxre](http://programming-motherfucker.com/become.html)
+- [Curated list of resources](https://github.com/sindresorhus/awesome)
+- [Curated frontend resources](https://github.com/syaning/awesome-frontend)
+- [More curated frontend resources](https://github.com/dypsilon/frontend-dev-bookmarks)

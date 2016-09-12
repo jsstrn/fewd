@@ -1,8 +1,9 @@
-# Summary
+# Contents
 
 * [Introduction](README.md)
 * [Contents](SUMMARY.md)
-* [Getting Started](getting-started.md)
+* Week 0
+  * [Getting Started](getting-started.md)
 * Week 1
    * [Objectives]()
    * [Intro to HTML](intro-html.md)
