@@ -30,9 +30,9 @@ We also have a Slack channel that you should have been added to by now. If you h
 
 Here's a list of development tools we'll be using throughout the course. You should have them installed before we begin.
 
-- Install Google Chrome
-- Install GitHub Desktop
-- Install Atom
+- Install [Google Chrome] (https://www.google.com/chrome/browser/desktop/index.html)
+- Install [GitHub Desktop] (https://desktop.github.com/)
+- Install [Atom] (https://atom.io/)
 - Install Atom packages (under settings)
   - highlight-selected
   - minimap
