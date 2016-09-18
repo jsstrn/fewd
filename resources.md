@@ -7,8 +7,11 @@ A list of resources for frontend web development.
 - [Bootstrap](http://getbootstrap.com/)
 - [Foundation](http://foundation.zurb.com/)
 - [Pure.css](http://purecss.io/)
+- [Tachyons](http://tachyons.io/)
 
 ## Books
+
+- HTML and CSS: Design and Build Websites by Jon Duckett
 
 ## YouTube Channels
 
@@ -21,6 +24,8 @@ A list of resources for frontend web development.
 - [Codecademy](https://www.codecademy.com/)
 - [Code School](https://www.codeschool.com/)
 - [Flatiron School](https://flatironschool.com/campuses/online/)
+- [Scotch.io](https://scotch.io/)
+- [SitePoint](https://www.sitepoint.com/)
 
 ## Others
 
