@@ -11,7 +11,8 @@ A list of resources for frontend web development.
 
 ## Books
 
-- HTML and CSS: Design and Build Websites by Jon Duckett
+- [Marksheet.io](http://marksheet.io)
+- [HTML and CSS: Design and Build Websites by Jon Duckett](http://www.bookdepository.com/HTML-and-CSS-Jon-Duckett/9781118871645)
 
 ## YouTube Channels
 
@@ -31,6 +32,8 @@ A list of resources for frontend web development.
 
 - [HTML Dog](http://www.htmldog.com/)
 - [Programming, Zbgureshpxre](http://programming-motherfucker.com/become.html)
+- [RunKit](https://runkit.com)
+- [Contentful](https://www.contentful.com/)
 - [Curated list of resources](https://github.com/sindresorhus/awesome)
 - [Curated frontend resources](https://github.com/syaning/awesome-frontend)
 - [More curated frontend resources](https://github.com/dypsilon/frontend-dev-bookmarks)
