@@ -8,9 +8,11 @@ We recommend that you read this page and complete any outstanding tasks **before
 
 In the first minute of this short clip, Steve Jobs shares with us the secret to success - passion. Without passion you wouldn't have the stamina to stay on this long hard road to becoming a web developer.
 
+Another one I really like comes from [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/) and something I try to remind myself whenever I'm learning something new.
+
 > It is up to you to make the necessary effort. When you are struggling to follow the book, do not jump to any conclusions about your own capabilities. You are fine — you just need to keep at it. Take a break, reread some material, and always make sure you read and understand the example programs and exercises. **Learning is hard work, but everything you learn is yours and will make subsequent learning easier**.
 
-This excerpt from the book [Eloquent JavaScript by Marijn Haverbeke](http://eloquentjavascript.net/) is a favorite of mine and something I try to remember whenever I am learning something new.
+Learning programming and becoming a web developer is hard, but if you keep these tips in mind you'll be well on your way to becoming one.
 
 ## Dash by General Assembly
 
