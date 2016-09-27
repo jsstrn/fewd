@@ -4,7 +4,7 @@ We recommend that you complete the following tasks **before** the start of the c
 
 ## Perseverance
 
-https://www.youtube.com/watch?v=KuNQgln6TL0
+{% youtube %}https://www.youtube.com/watch?v=KuNQgln6TL0{% endyoutube %}
 
 In the first minute of this short clip, Steve Jobs shares with us the secret to success - passion. Without passion you wouldn't have the stamina to stay on this long hard road to becoming a web developer.
 
