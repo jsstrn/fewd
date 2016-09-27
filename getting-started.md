@@ -1,6 +1,6 @@
 # Getting Started
 
-We recommend that you complete the following tasks **before** the start of the course.
+We recommend that you read this page and complete any outstanding tasks **before** the start of the course.
 
 ## Perseverance
 
