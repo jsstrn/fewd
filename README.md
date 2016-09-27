@@ -6,6 +6,6 @@ You can read this book [online](https://jsstrn.gitbooks.io/fewd/) or [download](
 
 ## About the instructional team
 
-**Jesstern Rays (instructor)** is a software developer at ThoughtWorks and instructor at General Assembly. He is also a co-organizer of [SingpaoreJS](https://www.meetup.com/Singapore-JS/) and hosts talk.js, a monthly meet up for JavaScript enthusiasts. He enjoys cycling and swimming on weekends. You can find him on 
+**Jesstern Rays (instructor)** is a software developer at ThoughtWorks and instructor at General Assembly. Previously, he was teaching teenagers how to develop games with [Scratch](https://scratch.mit.edu). He is also a co-organizer of [SingpaoreJS](https://www.meetup.com/Singapore-JS/) and hosts talk.js, a monthly meet up for JavaScript enthusiasts. He enjoys hiking, cycling and swimming. You can find him on Twitter as [@jsstrn](https://twitter.com/jsstrn).
 
 **Yishu See (teaching assistant)**
