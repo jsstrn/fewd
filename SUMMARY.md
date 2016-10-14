@@ -3,9 +3,10 @@
 * [Introduction](README.md)
 * [Contents](SUMMARY.md)
 * Week 0
-  * [Getting Started](getting-started.md)
+  * [Getting Started](week-0-getting-started.md)
 * Week 1
    * [Objectives](week-1-objectives.md)
+   * [How the Internet Works](week-1-how-internet-works.md)
    * [Intro to HTML](intro-html.md)
    * [Intro to CSS](intro-css.md)
    * [Assignment](week-1-assignment.md)
